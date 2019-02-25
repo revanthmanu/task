@@ -1,0 +1,6 @@
+framework module Pods_GitTaskTests {
+  umbrella header "Pods-GitTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
